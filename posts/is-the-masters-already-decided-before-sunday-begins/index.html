@@ -195,10 +195,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<p>At a historic course like Augusta National, every part of the course matters, with the weekend building to the iconic Masters Sunday.</p>
-<p>But is Sunday really when the tournament is won?</p>
+<p>Is the Masters already decided before Sunday begins?</p>
+<p>At a historic course like Augusta National, every part of the course matters, with the weekend building to the iconic Masters Sunday. It is often viewed as the most dramatic day in golf, where the pressure rises, and the leaderboard starts to take its shape. But is Sunday really when the tournament is won?</p>
 <p>Looking at the Masters winners over the past 20 years suggests something different. Most champions don’t come from behind to secure a major win. Instead, they stay near the top of the leaderboard throughout the week and enter the final round with a solid chance to win.</p>
-<p>Most Masters champions don’t rely on one dominant round. They steadily climb the leaderboard across the tournament</p>
+<p>Most Masters champions don’t rely on one dominant round. They steadily climb the leaderboard across the tournament.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -414,7 +414,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>Across recent tournaments, the average winner builds their advantage in the first three rounds. There are some expectations, such as Danny Willett’s Sunday push in 2016 and Trevor Immelman winning in 2008 despite losing strokes on Sunday.</p>
+<p>Across recent tournaments, the average winner builds their advantage in the first three rounds. There are some expectations, such as Danny Willett’s Sunday push in 2016 and Trevor Immelman winning in 2008 despite losing strokes on Sunday. The graph shows the average champion moves up consistently and doesn’t go up and down.</p>
 <p>Where you stand on Saturday night matters, a lot.</p>
 <div class="cell">
 <details class="code-fold">
@@ -472,12 +472,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale_x_continuous</span>(<span class="at">breaks=</span><span class="fu">c</span>(<span class="dv">1</span>,<span class="dv">2</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">6</span>,<span class="dv">7</span>,<span class="dv">8</span>,<span class="dv">9</span>,<span class="dv">10</span>,<span class="dv">11</span>,<span class="dv">12</span>,<span class="dv">13</span>,<span class="dv">14</span>,<span class="dv">15</span>,<span class="dv">16</span>,<span class="dv">17</span>,<span class="dv">18</span>,<span class="dv">19</span>,<span class="dv">20</span>,<span class="dv">21</span>,<span class="dv">22</span>,<span class="dv">23</span>,<span class="dv">24</span>,<span class="dv">25</span>, <span class="dv">26</span>, <span class="dv">27</span>)) <span class="sc">+</span> </span>
 <span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title=</span><span class="st">"The middle of the leaderboard is the most dangerous spot on Sunday"</span>, <span class="at">subtitle=</span><span class="st">"Golfers 7th to 17th tend to fall back, while those in the 20s are more likely to climb."</span>, <span class="at">x=</span><span class="st">"Average Round 4 Finish"</span>, </span>
 <span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a>    <span class="at">y=</span><span class="st">"Round 3 Finish"</span>, <span class="at">caption=</span><span class="st">"Source: Master's Past Winners and Results | Tatum Zimmerman"</span>  ) <span class="sc">+</span></span>
-<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() <span class="sc">+</span> </span>
-<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
-<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">size=</span><span class="dv">14</span>, <span class="at">face =</span><span class="st">"bold"</span>),</span>
-<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.subtitle =</span> <span class="fu">element_text</span>(<span class="at">size =</span><span class="dv">10</span>),</span>
-<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a>    <span class="at">panel.grid.minor =</span> <span class="fu">element_blank</span>(),</span>
-<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.title.position =</span> <span class="st">"plot"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() </span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -565,8 +560,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>Only a handful of golfers who led after Round 3 significantly dropped on the leaderboard in the final round. While collapses like Rory McIlroy’s in 2011 stand out in recent memory, they are exceptions to the rule. More often than not, the Sunday leader turns a lead into a green jacket.</p>
-<p>At Augusta National Golf Club, the tournament is rarely won in a single day. It is built over the course of the week.</p>
+<p>Only a handful of golfers who led after Round 3 significantly dropped on the leaderboard in the final round. While collapses like Rory McIlroy’s in 2011 stand out, they are exceptions to the rule. More often than not, the Sunday leader turns a lead into a green jacket.</p>
+<p>At Augusta National Golf Club, the tournament is rarely won in a single day. It is built over the course of the week. By Sunday, the leaderboard is usually already set, and the winner is in position. The final round still brings pressure and memorable moments, but it more about protecting a lead than chasing one.</p>
 
 
 

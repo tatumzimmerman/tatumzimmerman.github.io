@@ -21,10 +21,10 @@
 
 
 
-<p>At a historic course like Augusta National, every part of the course matters, with the weekend building to the iconic Masters Sunday.</p>
-<p>But is Sunday really when the tournament is won?</p>
+<p>Is the Masters already decided before Sunday begins?</p>
+<p>At a historic course like Augusta National, every part of the course matters, with the weekend building to the iconic Masters Sunday. It is often viewed as the most dramatic day in golf, where the pressure rises, and the leaderboard starts to take its shape. But is Sunday really when the tournament is won?</p>
 <p>Looking at the Masters winners over the past 20 years suggests something different. Most champions don’t come from behind to secure a major win. Instead, they stay near the top of the leaderboard throughout the week and enter the final round with a solid chance to win.</p>
-<p>Most Masters champions don’t rely on one dominant round. They steadily climb the leaderboard across the tournament</p>
+<p>Most Masters champions don’t rely on one dominant round. They steadily climb the leaderboard across the tournament.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -1868,7 +1868,7 @@ font-style: inherit;">"plot"</span>)</span></code></pre></div></div>
 </div>
 </div>
 </div>
-<p>Across recent tournaments, the average winner builds their advantage in the first three rounds. There are some expectations, such as Danny Willett’s Sunday push in 2016 and Trevor Immelman winning in 2008 despite losing strokes on Sunday.</p>
+<p>Across recent tournaments, the average winner builds their advantage in the first three rounds. There are some expectations, such as Danny Willett’s Sunday push in 2016 and Trevor Immelman winning in 2008 despite losing strokes on Sunday. The graph shows the average champion moves up consistently and doesn’t go up and down.</p>
 <p>Where you stand on Saturday night matters, a lot.</p>
 <div class="cell">
 <details class="code-fold">
@@ -2234,44 +2234,7 @@ background-color: null;
 font-style: inherit;">+</span></span>
 <span id="cb2-54">  <span class="fu" style="color: #4758AB;
 background-color: null;
-font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> </span>
-<span id="cb2-55">  <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">theme</span>(</span>
-<span id="cb2-56">    <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">size=</span><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">14</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">face =</span><span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"bold"</span>),</span>
-<span id="cb2-57">    <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">plot.subtitle =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">size =</span><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">10</span>),</span>
-<span id="cb2-58">    <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">panel.grid.minor =</span> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">element_blank</span>(),</span>
-<span id="cb2-59">    <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">plot.title.position =</span> <span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"plot"</span>)</span></code></pre></div></div>
+font-style: inherit;">theme_minimal</span>() </span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
 <div>
@@ -2871,8 +2834,8 @@ font-style: inherit;">"plot"</span></span>
 </div>
 </div>
 </div>
-<p>Only a handful of golfers who led after Round 3 significantly dropped on the leaderboard in the final round. While collapses like Rory McIlroy’s in 2011 stand out in recent memory, they are exceptions to the rule. More often than not, the Sunday leader turns a lead into a green jacket.</p>
-<p>At Augusta National Golf Club, the tournament is rarely won in a single day. It is built over the course of the week.</p>
+<p>Only a handful of golfers who led after Round 3 significantly dropped on the leaderboard in the final round. While collapses like Rory McIlroy’s in 2011 stand out, they are exceptions to the rule. More often than not, the Sunday leader turns a lead into a green jacket.</p>
+<p>At Augusta National Golf Club, the tournament is rarely won in a single day. It is built over the course of the week. By Sunday, the leaderboard is usually already set, and the winner is in position. The final round still brings pressure and memorable moments, but it more about protecting a lead than chasing one.</p>
 
 
 
