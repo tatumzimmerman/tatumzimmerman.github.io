@@ -14,6 +14,14 @@
   </url>
   <url>
     <loc>https://your-website-url.example.com/index.html</loc>
-    <lastmod>2026-03-30T18:49:45.756Z</lastmod>
+    <lastmod>2026-04-10T15:25:51.943Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/is-the-masters-already-decided-before-sunday-begins?/index.html</loc>
+    <lastmod>2026-04-10T16:03:27.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://your-website-url.example.com/posts/is-the-masters-already-decided-before-sunday-begins/index.html</loc>
+    <lastmod>2026-04-10T16:21:54.777Z</lastmod>
   </url>
 </urlset>
