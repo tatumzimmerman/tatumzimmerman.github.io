@@ -806,23 +806,23 @@ font-style: inherit;">"Minnesota"</span>)</span>
 <span id="cb2-61">  )</span></code></pre></div></div>
 </details>
 <div class="cell-output-display">
-<div id="fjzhugvhzf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#fjzhugvhzf table {
+<div id="vqnlvioihf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#vqnlvioihf table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#fjzhugvhzf thead, #fjzhugvhzf tbody, #fjzhugvhzf tfoot, #fjzhugvhzf tr, #fjzhugvhzf td, #fjzhugvhzf th {
+#vqnlvioihf thead, #vqnlvioihf tbody, #vqnlvioihf tfoot, #vqnlvioihf tr, #vqnlvioihf td, #vqnlvioihf th {
   border-style: none;
 }
 
-#fjzhugvhzf p {
+#vqnlvioihf p {
   margin: 0;
   padding: 0;
 }
 
-#fjzhugvhzf .gt_table {
+#vqnlvioihf .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -848,12 +848,12 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-left-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_caption {
+#vqnlvioihf .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#fjzhugvhzf .gt_title {
+#vqnlvioihf .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -865,7 +865,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-bottom-width: 0;
 }
 
-#fjzhugvhzf .gt_subtitle {
+#vqnlvioihf .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -877,7 +877,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-top-width: 0;
 }
 
-#fjzhugvhzf .gt_heading {
+#vqnlvioihf .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -889,13 +889,13 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_bottom_border {
+#vqnlvioihf .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_col_headings {
+#vqnlvioihf .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -910,7 +910,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_col_heading {
+#vqnlvioihf .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -930,7 +930,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   overflow-x: hidden;
 }
 
-#fjzhugvhzf .gt_column_spanner_outer {
+#vqnlvioihf .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -942,15 +942,15 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 4px;
 }
 
-#fjzhugvhzf .gt_column_spanner_outer:first-child {
+#vqnlvioihf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fjzhugvhzf .gt_column_spanner_outer:last-child {
+#vqnlvioihf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fjzhugvhzf .gt_column_spanner {
+#vqnlvioihf .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -962,11 +962,11 @@ font-style: inherit;">"Minnesota"</span>)</span>
   width: 100%;
 }
 
-#fjzhugvhzf .gt_spanner_row {
+#vqnlvioihf .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#fjzhugvhzf .gt_group_heading {
+#vqnlvioihf .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -992,7 +992,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   text-align: left;
 }
 
-#fjzhugvhzf .gt_empty_group_heading {
+#vqnlvioihf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1007,15 +1007,15 @@ font-style: inherit;">"Minnesota"</span>)</span>
   vertical-align: middle;
 }
 
-#fjzhugvhzf .gt_from_md > :first-child {
+#vqnlvioihf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fjzhugvhzf .gt_from_md > :last-child {
+#vqnlvioihf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fjzhugvhzf .gt_row {
+#vqnlvioihf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1034,7 +1034,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   overflow-x: hidden;
 }
 
-#fjzhugvhzf .gt_stub {
+#vqnlvioihf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1047,7 +1047,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 5px;
 }
 
-#fjzhugvhzf .gt_stub_row_group {
+#vqnlvioihf .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1061,15 +1061,15 @@ font-style: inherit;">"Minnesota"</span>)</span>
   vertical-align: top;
 }
 
-#fjzhugvhzf .gt_row_group_first td {
+#vqnlvioihf .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#fjzhugvhzf .gt_row_group_first th {
+#vqnlvioihf .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#fjzhugvhzf .gt_summary_row {
+#vqnlvioihf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1079,16 +1079,16 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 5px;
 }
 
-#fjzhugvhzf .gt_first_summary_row {
+#vqnlvioihf .gt_first_summary_row {
   border-top-style: none;
   border-top-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_first_summary_row.thick {
+#vqnlvioihf .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#fjzhugvhzf .gt_last_summary_row {
+#vqnlvioihf .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1098,7 +1098,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_grand_summary_row {
+#vqnlvioihf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1108,7 +1108,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 5px;
 }
 
-#fjzhugvhzf .gt_first_grand_summary_row {
+#vqnlvioihf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1118,7 +1118,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-top-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_last_grand_summary_row_top {
+#vqnlvioihf .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1128,11 +1128,11 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_striped {
+#vqnlvioihf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fjzhugvhzf .gt_table_body {
+#vqnlvioihf .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1141,7 +1141,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-bottom-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_footnotes {
+#vqnlvioihf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1155,7 +1155,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_footnote {
+#vqnlvioihf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1164,7 +1164,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 5px;
 }
 
-#fjzhugvhzf .gt_sourcenotes {
+#vqnlvioihf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1178,7 +1178,7 @@ font-style: inherit;">"Minnesota"</span>)</span>
   border-right-color: #D3D3D3;
 }
 
-#fjzhugvhzf .gt_sourcenote {
+#vqnlvioihf .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1186,72 +1186,72 @@ font-style: inherit;">"Minnesota"</span>)</span>
   padding-right: 5px;
 }
 
-#fjzhugvhzf .gt_left {
+#vqnlvioihf .gt_left {
   text-align: left;
 }
 
-#fjzhugvhzf .gt_center {
+#vqnlvioihf .gt_center {
   text-align: center;
 }
 
-#fjzhugvhzf .gt_right {
+#vqnlvioihf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fjzhugvhzf .gt_font_normal {
+#vqnlvioihf .gt_font_normal {
   font-weight: normal;
 }
 
-#fjzhugvhzf .gt_font_bold {
+#vqnlvioihf .gt_font_bold {
   font-weight: bold;
 }
 
-#fjzhugvhzf .gt_font_italic {
+#vqnlvioihf .gt_font_italic {
   font-style: italic;
 }
 
-#fjzhugvhzf .gt_super {
+#vqnlvioihf .gt_super {
   font-size: 65%;
 }
 
-#fjzhugvhzf .gt_footnote_marks {
+#vqnlvioihf .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#fjzhugvhzf .gt_asterisk {
+#vqnlvioihf .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#fjzhugvhzf .gt_indent_1 {
+#vqnlvioihf .gt_indent_1 {
   text-indent: 5px;
 }
 
-#fjzhugvhzf .gt_indent_2 {
+#vqnlvioihf .gt_indent_2 {
   text-indent: 10px;
 }
 
-#fjzhugvhzf .gt_indent_3 {
+#vqnlvioihf .gt_indent_3 {
   text-indent: 15px;
 }
 
-#fjzhugvhzf .gt_indent_4 {
+#vqnlvioihf .gt_indent_4 {
   text-indent: 20px;
 }
 
-#fjzhugvhzf .gt_indent_5 {
+#vqnlvioihf .gt_indent_5 {
   text-indent: 25px;
 }
 
-#fjzhugvhzf .katex-display {
+#vqnlvioihf .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#fjzhugvhzf div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#vqnlvioihf div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -1698,7 +1698,7 @@ font-style: inherit;">element_blank</span>())</span></code></pre></div></div>
   <category>basketball</category>
   <guid>https://your-website-url.example.com/posts/were-the-gophers-better-than-their-record-suggested/</guid>
   <pubDate>Wed, 22 Apr 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/were-the-gophers-better-than-their-record-suggested/image.png" medium="image" type="image/png"/>
+  <media:content url="https://your-website-url.example.com/posts/were-the-gophers-better-than-their-record-suggested/image.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 <item>
   <title>Is the Masters already decided before Sunday begins?</title>
